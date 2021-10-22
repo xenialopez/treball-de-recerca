@@ -1,0 +1,17 @@
+.projects_container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+    margin: 70px 0;
+  }
+  
+  .project_title {
+    color: #6e57e0;
+    font-family: var(--primary-font);
+    font-style: italic;
+  }
+  
+  .project_img {
+    width: 100%;
+    height: 180px;
+  }

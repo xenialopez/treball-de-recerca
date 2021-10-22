@@ -1,0 +1,10 @@
+:root {
+    --primary-color: #6e57e0;
+    --primary-color-alt: #6e57e0; /* When hover or something like that */ 
+
+    --secondary-color: #f1faff;  /* Change it to another color */ 
+    --secondary-color-alt: #f1faff; /* When hover or something like that */ 
+
+    --primary-bg-color: #dbdbdb;
+    --secondary-bg-color: brown;
+}
