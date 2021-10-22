@@ -15,7 +15,7 @@
         <p>Todos los derechos reservados © 2021 <b>Gerard López</b></p>
     </div>
 
-    <script src="assets/js/script.js"></script>
+    <script src="/treball-de-recerca/assets/js/script.js"></script>
 </footer>
 
 </body>

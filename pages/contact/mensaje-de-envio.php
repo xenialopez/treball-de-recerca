@@ -9,9 +9,9 @@
 
     <link rel="stylesheet" href="css/estilos.css">
 
-    <script src="js/jquery-3.2.1.js"></script>
-    <script src="js/script.js"></script>
-    <script src="js/contact_form.js"></script>
+    <script src="/treball-de-recerca/assets/js/jquery-3.2.1.js"></script>
+    <script src="/treball-de-recerca/assets/js/script.js"></script>
+    <script src="/treball-de-recerca/assets/js/contact_form.js"></script>
 </head>
 
 <body>
