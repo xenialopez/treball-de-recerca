@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-    /*$('#btnSend').click(function(e) {
+    $('#btnSend').click(function(e) {
         e.preventDefault();
 
         var errores = '';
@@ -46,6 +46,6 @@ $(document).ready(function() {
         $('#btnClose').click(function() {
             $('.modal_wrap').remove();
         });
-    });*/
+    });
 
 });

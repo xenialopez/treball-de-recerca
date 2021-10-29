@@ -9,6 +9,7 @@
 @import url("./home.css");
 @import url("./projects.css");
 @import url("./contact.css");
+@import url("./experience.css");
 
 * {
   margin: 0;
@@ -18,7 +19,6 @@
 }
 
 body {
-  background: var(--primary-bg-color);
   font-family: var(--primary-font);
 }
 
@@ -36,4 +36,9 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   padding: 0px 20px;
+}
+
+.container__content {
+  padding-top: 100px;
+  /* background: var(--secondary-bg-color); */
 }

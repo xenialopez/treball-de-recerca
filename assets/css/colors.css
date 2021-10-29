@@ -6,5 +6,7 @@
     --secondary-color-alt: #f1faff; /* When hover or something like that */ 
 
     --primary-bg-color: #dbdbdb;
-    --secondary-bg-color: brown;
+    --secondary-bg-color: #9d8aff; 
+
+    --color-esqueleto: #EBF0F2; 
 }

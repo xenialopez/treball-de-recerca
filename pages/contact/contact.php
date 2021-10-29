@@ -1,4 +1,4 @@
-<?php include '../../shared/header.php' ?>
+<?php include '../shared/header.php' ?>
 
 <section class="form_wrap">
 
@@ -24,7 +24,6 @@
             <label for="mensaje">Mensaje *</label>
             <textarea id="mensaje" name="mensaje" required></textarea>
 
-            <!-- Si el boton no hace submit, nunca enviara nada -->
             <button id="btnSend" type="submit">Enviar Mensaje</button>
         </div>
     </form>
@@ -34,4 +33,4 @@
 <script src="/treball-de-recerca/assets/js/jquery-3.2.1.js"></script>
 <script src="/treball-de-recerca/assets/js/contact_form.js"></script>
 
-<?php include '../../shared/footer.php' ?>
+<?php include '../shared/footer.php' ?>
