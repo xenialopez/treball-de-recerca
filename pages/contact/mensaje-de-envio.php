@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Formulario de contacto</title>
 
-    <link rel="stylesheet" href="css/estilos.css">
+    <link rel="stylesheet" href="../../assets/css/mensaje-de-envio.css">
 
     <script src="/treball-de-recerca/assets/js/jquery-3.2.1.js"></script>
     <script src="/treball-de-recerca/assets/js/script.js"></script>
@@ -16,14 +16,14 @@
 
 <body>
 
-    <section class="form_wrap">
+    <div class="container__mensaje">
 
-        <section class="mensaje-exito">
+        <div class="mensaje-exito">
             <h1>SU MENSAJE SE ENVIÓ EXITOSAMENTE</h1>
-            <a href="contact.html">Enviar nuevo mensaje</a>
-        </section>
+            <a href="contact.php">Enviar nuevo mensaje</a>
+        </div>
 
-    </section>
+    </div>
 
 </body>
 

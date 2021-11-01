@@ -123,16 +123,22 @@
   margin-top: 30px;
 }
 
-.body_page .knowledge,
-.body_page .tools,
-.body_page .aptitudes {
-  text-align: center;
-  width: 100%;
-  font-family: var(--primary-font);
-  font-style: italic;
-}
-
 .body_page h3 {
   color: #6e57e0;
+}
+
+.body__container {
+  display: block;
+  align-items: center;
+  box-shadow: 1px 1px 10px 0px rgb(0 0 0 / 10%);
+  width: fit-content;
+  padding: 30px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  z-index: 10;
+}
+
+.knowledge, .tools, .aptitudes{
+  display: block;
 }
 

@@ -1,6 +1,7 @@
 .experience__work h2,
 .experience__study h2 {
   color: var(--primary-color);
+  padding-top: 30px;
 }
 
 .experience__container {
@@ -56,7 +57,7 @@
 }
 
 .experience__separator {
-  margin: 30px auto 50px auto;
+  margin: 30px auto 30px auto;
   border-color: var(--primary-color);
 }
 
@@ -64,7 +65,7 @@ connection {
   border: 5px solid var(--primary-color);
   border-radius: 50px;
   z-index: 1;
-  /* display: none; */
+  display: non;
 }
 
 @media (max-width: 768px) {

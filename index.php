@@ -28,16 +28,27 @@
     </div>
 
     <div class="body_page">
-        <div class="knowledge">
-            <h3>Conocimientos del sector</h3>
-        </div>
+        <div class="body__container">
+            <div class="knowledge">
+                <h3>Conocimientos del sector</h3>
+                <div class="knowledge__content">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti nesciunt iure natus, eum alias inventore!</p>
+                </div>
+            </div>
 
-        <div class="tools">
-            <h3>Herramientas y tecnologías</h3>
-        </div>
+            <div class="tools">
+                <h3>Herramientas y tecnologías</h3>
+                <div class="tools__content">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti nesciunt iure natus, eum alias inventore!</p>
+                </div>
+            </div>
 
-        <div class="aptitudes">
-            <h3>Aptitudes</h3>
+            <div class="aptitudes">
+                <h3>Aptitudes</h3>
+                <div class="aptitudes__content">
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti nesciunt iure natus, eum alias inventore!</p>
+                </div>
+            </div>
         </div>
     </div>
 </div>

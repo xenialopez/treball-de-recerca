@@ -22,14 +22,14 @@
                 <a href="/treball-de-recerca/index.php"><i class="fas fa-home"></i></a>
             </div>
             <div class="container__nav">
-                <!-- <nav id="nav">
+                <nav id="nav">
                     <ul>
-                        <li><a href="/treball-de-recerca/pages/experience.php">Estudios y experiencia</a></li>
+                        <li><a href="/treball-de-recerca/pages/experience/experience.php">Estudios y experiencia</a></li>
                         <li><a href="/treball-de-recerca/pages/projects.php">Proyectos</a></li>
                         <li><a href="/treball-de-recerca/pages/contact/contact.php">Contacto</a></li>
                     </ul>
                 </nav>
-                <div class="btn__menu" id="btn_menu"><i class="fas fa-bars"></i></div> -->
+                <div class="btn__menu" id="btn_menu"><i class="fas fa-bars"></i></div> 
             </div>
         </div>
     </header>
