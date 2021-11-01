@@ -1,0 +1,16 @@
+.projects__container{
+    padding: 100px 400px;
+}
+
+.projects__container h2{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.projects__wrapper{
+    display: grid;
+    text-align: center;
+    grid-template-columns: repeat(3, 1fr); 
+    grid-column-gap: 10px;
+    grid-row-gap: 10px; 
+}

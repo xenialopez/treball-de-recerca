@@ -127,18 +127,27 @@
   color: #6e57e0;
 }
 
-.body__container {
-  display: block;
-  align-items: center;
+.body_page {
+  text-align: center;
+}
+
+.knowledge, .tools, .aptitudes{
+  text-align: left;
+  font-size: 105%;
+  display: inline-block;
   box-shadow: 1px 1px 10px 0px rgb(0 0 0 / 10%);
   width: fit-content;
   padding: 30px;
   margin-top: 30px;
   margin-bottom: 50px;
   z-index: 10;
+  line-height: 2.5em
 }
 
-.knowledge, .tools, .aptitudes{
-  display: block;
+.knowledge h3, .tools h3, .aptitudes h3{
+  text-align: center;
 }
 
+.body__container i {
+  color: #6e57e0;
+}

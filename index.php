@@ -29,25 +29,53 @@
 
     <div class="body_page">
         <div class="body__container">
-            <div class="knowledge">
-                <h3>Conocimientos del sector</h3>
-                <div class="knowledge__content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti nesciunt iure natus, eum alias inventore!</p>
-                </div>
-            </div>
-
+            
             <div class="tools">
                 <h3>Herramientas y tecnologías</h3>
-                <div class="tools__content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti nesciunt iure natus, eum alias inventore!</p>
-                </div>
+                <br>
+                <p>
+                    <i class="far fa-check-circle"></i> Angular 7
+                    <br>
+                    <i class="far fa-check-circle"></i> jQuery
+                    <br>
+                    <i class="far fa-check-circle"></i> Bootstrap
+                    <br>
+                    <i class="far fa-check-circle"></i> PHP
+                    <br>
+                    <i class="far fa-check-circle"></i> HTML5
+                </p>
+            </div>
+
+            <div class="knowledge">
+                <h3>Conocimientos del sector</h3>
+                <br>
+                <p>
+                    <i class="far fa-check-circle"></i> Desarrollo del front-end
+                    <br>
+                    <i class="far fa-check-circle"></i> Desarrollo de sitios web
+                    <br>
+                    <i class="far fa-check-circle"></i> Optimización de motores de búsqueda (SEO)
+                    <br>
+                    <i class="far fa-check-circle"></i> Gestión de proyectos
+                    <br>
+                    <i class="far fa-check-circle"></i> Scrum
+                </p>
             </div>
 
             <div class="aptitudes">
                 <h3>Aptitudes</h3>
-                <div class="aptitudes__content">
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti nesciunt iure natus, eum alias inventore!</p>
-                </div>
+                <br>
+                <p>
+                    <i class="far fa-check-circle"></i> Trabajo en equipo
+                    <br>
+                    <i class="far fa-check-circle"></i> Creatividad
+                    <br>
+                    <i class="far fa-check-circle"></i> Codificación de front-end
+                    <br>
+                    <i class="far fa-check-circle"></i> Diseño de front-end
+                    <br>
+                    <i class="far fa-check-circle"></i> SourceTree
+                </p>
             </div>
         </div>
     </div>
