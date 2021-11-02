@@ -5,7 +5,7 @@ $(document).ready(function() {
 
         var errores = '';
 
-        // Validado Nombre ==============================
+
         if ($('#names').val() == '') {
             errores += '<p>Escriba un nombre</p>';
             $('#names').css("border-bottom-color", "#F14B4B")
@@ -13,7 +13,7 @@ $(document).ready(function() {
             $('#names').css("border-bottom-color", "#d1d1d1")
         }
 
-        // Validado Correo ==============================
+
         if ($('#email').val() == '') {
             errores += '<p>Ingrese un correo</p>';
             $('#email').css("border-bottom-color", "#F14B4B")
@@ -21,7 +21,7 @@ $(document).ready(function() {
             $('#email').css("border-bottom-color", "#d1d1d1")
         }
 
-        // Validado Mensaje ==============================
+
         if ($('#mensaje').val() == '') {
             errores += '<p>Escriba un mensaje</p>';
             $('#mensaje').css("border-bottom-color", "#F14B4B")
@@ -29,7 +29,7 @@ $(document).ready(function() {
             $('#mensaje').css("border-bottom-color", "#d1d1d1")
         }
 
-        // ENVIANDO MENSAJE ============================
+
         if (errores == '' == false) {
             var mensajeModal = '<div class="modal_wrap">' +
                 '<div class="mensaje_modal">' +
@@ -42,7 +42,7 @@ $(document).ready(function() {
             $('body').append(mensajeModal);
         }
 
-        // CERRANDO MODAL ==============================
+
         $('#btnClose').click(function() {
             $('.modal_wrap').remove();
         });
