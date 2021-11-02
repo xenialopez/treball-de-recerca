@@ -1,10 +1,13 @@
 .projects__container{
-    padding: 100px 400px;
+    padding-top: 100px;
+    padding-bottom: 50px;
 }
 
 .projects__container h2{
     padding-top: 30px;
-    padding-bottom: 30px;
+    padding-bottom: 60px;
+    color: var(--primary-color);
+    text-align: center;
 }
 
 .projects__wrapper{
@@ -12,5 +15,37 @@
     text-align: center;
     grid-template-columns: repeat(3, 1fr); 
     grid-column-gap: 10px;
-    grid-row-gap: 10px; 
+    grid-row-gap: 40px; 
+    padding: auto auto 380px 380px;
+    align-items: stretch;
 }
+
+.project-example{
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}
+
+.project-example img{
+    max-height: 150px;
+    padding: 20px;
+}
+
+.project-example h4{
+    padding-bottom: 20px;
+}
+
+.projects__button {
+    font: bold 15px;
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: white;
+    padding: 2px 6px 2px 6px;
+    border-top-left-radius : 5rem;
+    border-top-right-radius : 5rem;
+    border-bottom-right-radius : 5rem;
+    border-bottom-left-radius : 5rem;
+  }
+
+  a :hover{
+      cursor: pointer;
+  }

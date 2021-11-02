@@ -48,6 +48,7 @@ footer {
   
   .box__footer a:hover {
     opacity: 0.8;
+    cursor: pointer;
   }
   
   .box__footer a .fab {
